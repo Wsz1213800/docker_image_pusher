@@ -1,5 +1,5 @@
 redis:latest
-postres:18
+postgres:18
 busybox:latest
 rockylinux:9
 prom/alertmanager:v0.29.0
