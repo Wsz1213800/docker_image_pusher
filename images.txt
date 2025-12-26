@@ -1,6 +1,6 @@
 prom/node-exporter:v1.10.2
 prom/prometheus:v3.8.1
-grafana/grafana:12.4.0-20047603318-ubuntu
+grafana/grafana:12.4.0-20447603318-ubuntu
 prom/alertmanager:v0.30.0
 grafana/promtail:main-08e3c43
 grafana/loki:main-08e3c43
